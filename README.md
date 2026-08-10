@@ -7,7 +7,7 @@ This repository contains the code accompanying the paper:
 
 ### Overview
 
-This project studies LLM misalignment detection using Linear Probes trained on simple true–false assertions. We show that these probes generalize across multiple misbehaviors—including hallucinations, harmful outputs, bias, and deception—without being trained on misaligned samples.
+This project studies LLM misalignment detection using Linear Probes trained on simple true–false assertions. We show that these probes generalize across multiple alignemnt-failing behaviours—including hallucinations, harmful outputs, bias, and deception—without being trained on alignemnt-failing samples.
 
 ---
 
