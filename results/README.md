@@ -18,7 +18,7 @@ This folder contains evaluation results using original dataset names. Use the ta
 | `generated_facts_8B_stmt__last_token` | `o_fact` |
 | `cot_8B` | `o_cot` |
 | `jbb_harmful_benign_prompt` | `jbb` |
-| `toxigen_hate_neutral`  `toxi` |
+| `toxigen_hate_neutral` | `toxi` |
 | `white_lies` | `o_wLies` |
 | `sycophancy_just_AT_AF` | `o_agSyco` |
 | `sycophancy_feedback` | `o_feSyco` |
